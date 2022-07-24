@@ -1,1 +1,1 @@
-web: gunicorn air-mornitoring:server
+web: gunicorn index:server
